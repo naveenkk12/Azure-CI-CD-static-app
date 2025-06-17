@@ -1,8 +1,12 @@
 <template>
   <div id="app">
 
+<<<<<<< HEAD
     <h1>Welcome to Hello World2025</h1>
-	<h2>Upload your data to get Gen Ai predictions</h2>
+=======
+    <h1>Welcome to AI 2025</h1>
+>>>>>>> refs/remotes/origin/master
+	<h2>Upload your data to AI predictions</h2>
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
